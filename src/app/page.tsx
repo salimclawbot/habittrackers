@@ -1,0 +1,6 @@
+import { Metadata } from "next"; import Link from "next/link"; import { getAllSlugs, getArticle } from "@/lib/articles";
+export const metadata: Metadata = { title:"Habit Tracker Templates: Free Printable & Digital (2026)",description:"Free habit tracker templates for 2026. Printable monthly trackers, Google Sheets, Notion templates — build any habit in 30 days.",alternates:{canonical:"https://habittrackers.com"}};
+export default async function HomePage() {
+  const articles = (await Promise.all(getAllSlugs().map(s=>getArticle(s)))).filter(Boolean);
+  return (<main className="max-w-4xl mx-auto px-4 py-12"><h1 className="text-4xl font-bold text-slate-900 mb-4">Habit Tracker Templates</h1><p className="text-xl text-slate-600 mb-12">Free printable and digital habit tracker templates to build any habit in 30 days.</p><div className="grid gap-6">{articles.map(a=>a&&(<Link key={a.slug} href={`/${a.slug}`} className="block p-6 border border-slate-200 rounded-xl hover:border-purple-400 hover:shadow-md transition-all"><h2 className="text-xl font-semibold text-slate-900 mb-2">{a.title}</h2><p className="text-slate-600">{a.description}</p><span className="inline-block mt-3 text-sm font-medium text-purple-600">Read guide →</span></Link>))}</div></main>);
+}
