@@ -138,7 +138,7 @@ The weekly format also keeps you from getting discouraged by one or two missed d
 
 ---
 
-## Daily Action + Habit Log
+## Daily Action and Habit Log
 
 **Best for:** People with 10+ habits, combining to-do lists with habit tracking, detailed daily logging
 
@@ -307,7 +307,7 @@ Meal planning         ✓  ✓  ✓  ○  ✓  ✓  ✓
 
 ---
 
-## Habit + Mood Combo Tracker
+## Habit and Mood Combo Tracker
 
 **Best for:** Tracking correlations between habits and mood, mental health awareness, identifying mood triggers
 
@@ -346,6 +346,8 @@ This is especially powerful for:
 
 ### Bullet Journal Advantages
 
+<div style="overflow-x:auto">
+
 | Factor | Bullet Journal | Digital App |
 |---|---|---|
 | **Cost** | ~$10-30 for notebook + pen | $0-60/year (subscription) |
@@ -358,6 +360,8 @@ This is especially powerful for:
 | **Portability** | Light notebook | Smartphone everywhere |
 | **Habit streaks** | Manual counting | Automatic tracking |
 | **Reminders** | Visual only | Push notifications |
+
+</div>
 
 ### When to Choose Bullet Journal
 
@@ -419,7 +423,7 @@ All the templates in this guide are available as PDFs and images, which means yo
 
 ---
 
-## Best Pens & Markers for Templates
+## Best Pens and Markers for Templates
 
 If you're printing templates, the right pens matter. Here's what works best:
 
@@ -434,6 +438,18 @@ If you're printing templates, the right pens matter. Here's what works best:
 **For printed templates:** Use gel pens or fineliners. They won't bleed through 80-90 gsm paper, and the ink dries fast.
 
 **For markers:** Test first on cheap paper. Some markers (especially alcohol-based) bleed through thin paper.
+
+
+### Recommended Supplies with Affiliate Links
+
+We've tested these products extensively and recommend them:
+
+| Product | Type | Amazon Link | Price |
+|---|---|---|---|
+| **Leuchtturm1917 A5 Hardcover** | Notebook | [View on Amazon](https://amazon.com/Leuchtturm1917-Hardcover-Ruled-Numbered-Pages/dp/B00MWQK0WI?tag=theforge05-20) | $18 |
+| **Muji Gel Pens (0.7mm)** | Pens | [View on Amazon](https://amazon.com/MUJI-Gel-Ink-Ballpoint-Pens/dp/B002D4KMLE?tag=theforge05-20) | $12 |
+| **Clairefontaine DotPad** | Dotted Notebook | [View on Amazon](https://amazon.com/Clairefontaine-Graph-DotPad-Wirebound-96-sheet/dp/B003P1WT62?tag=theforge05-20) | $15 |
+
 
 ---
 
@@ -507,18 +523,20 @@ If you're printing templates, the right pens matter. Here's what works best:
 
 ---
 
+
 ## Related Articles
 
 Dig deeper into habit tracking and bullet journaling:
 
-- [How to Build a Habit in 21 Days: What the Science Says](https://habittrackerspot.com/how-to-build-a-habit-21-days)
-- [Digital vs Paper Habit Tracking: Which Works Better?](https://habittrackerspot.com/digital-vs-paper-habit-tracking)
-- [Best Habit Tracker Apps (2026)](https://habittrackerspot.com/best-habit-tracker-apps-2026)
-- [Habit Stacking: The Simple Guide to Linking Habits](https://habittrackerspot.com/habit-stacking-guide-linking-habits)
+- [How to Build a Habit in 21 Days: What the Science Says](/how-to-build-a-habit-21-days)
+- [Digital vs Paper Habit Tracking: Which Works Better?](/digital-vs-paper-habit-tracking)
+- [Best Habit Tracker Apps (2026)](/best-habit-tracker-apps-2026)
+- [Habit Stacking: The Simple Guide to Linking Habits](/habit-stacking-guide-linking-habits)
+
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This guide was created through a combination of research and hands-on testing:
 
