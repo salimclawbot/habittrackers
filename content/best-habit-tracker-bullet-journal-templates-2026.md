@@ -27,19 +27,26 @@ We've tested dozens of bullet journal habit tracker templates and selected the b
 - [What Is a Bullet Journal Habit Tracker?](#what-is-a-bullet-journal-habit-tracker)
 - [Monthly Overview Template](#monthly-overview-template)
 - [Weekly Habit Tracker Template](#weekly-habit-tracker-template)
-- [Daily Action + Habit Log](#daily-action--habit-log)
+- [Daily Action and Habit Log](#daily-action-and-habit-log)
 - [Minimalist Checkmark Grid](#minimalist-checkmark-grid)
 - [90-Day Habit Challenge](#90-day-habit-challenge)
 - [Category-Based Tracker](#category-based-tracker)
-- [Habit + Mood Combo Tracker](#habit--mood-combo-tracker)
+- [Habit and Mood Combo Tracker](#habit-and-mood-combo-tracker)
 - [Comparison: Bullet Journal vs Digital Apps](#comparison-bullet-journal-vs-digital-apps)
 - [How to Customize Templates](#how-to-customize-templates)
-- [Best Pens & Markers for Templates](#best-pens--markers-for-templates)
+- [Best Pens and Markers for Templates](#best-pens-and-markers-for-templates)
 - [Common Template Mistakes to Avoid](#common-template-mistakes-to-avoid)
 - [FAQ](#faq)
-- [Sources & Methodology](#sources--methodology)
+- [Sources and Methodology](#sources-and-methodology)
 
-<!-- IMG: Hero image of open bullet journal with colorful habit tracker spread -->
+![Hero image of open bullet journal with colorful habit tracker spread](/images/articles/best-habit-tracker-bullet-journal-templates-2026-hero.jpg)
+
+
+
+<video autoplay muted loop playsinline width="100%" style="border-radius:8px;margin:2rem 0">
+  <source src="/videos/best-habit-tracker-bullet-journal-templates-2026-demo.mp4" type="video/mp4" />
+</video>
+
 
 ---
 
@@ -71,7 +78,7 @@ Research from the University of Arizona found that people who write down their g
 
 The monthly overview is the backbone of most bullet journal systems. It shows you one cell per day, so you can spot which habits you're crushing and which ones are struggling.
 
-<!-- INFOGRAPHIC: Monthly grid with 7 habits and 30 days showing checkmarks and circles -->
+![Monthly grid infographic showing 7 habits and 30 days](/images/articles/monthly-overview-grid-infographic.jpg)
 
 ### Layout Breakdown
 
@@ -108,7 +115,7 @@ This number becomes your baseline. Next month, aim to hit 95%.
 
 A weekly layout lets you include more details — time of day, duration, specific targets — without running out of room. It works especially well if you have 8 or more habits.
 
-<!-- IMG: Weekly layout with target column showing 7 habits across 7 days -->
+![Weekly layout with target column](/images/articles/weekly-layout-comparison.jpg)
 
 ### Layout Design
 
@@ -144,7 +151,7 @@ The weekly format also keeps you from getting discouraged by one or two missed d
 
 If you want to merge your to-do list with habit tracking, a daily action log is perfect. You get one full page per day, with space for both habits and tasks.
 
-<!-- IMG: Full-page daily spread showing habits at top, notes in middle, to-do list at bottom -->
+![Full-page daily action log spread](/images/articles/daily-action-log-template.jpg)
 
 ### Page Layout
 
@@ -188,7 +195,7 @@ The "Notes & Wins" section is critical for motivation. A missed habit is less di
 
 If you prefer an ultra-clean aesthetic, a minimalist checkmark grid is just 7 columns (one per day) and as many rows as you have habits. No borders, no color, just the data.
 
-<!-- IMG: Clean minimalist grid showing 4 habits, 7 days, only checkmarks and spaces -->
+![Minimalist checkmark grid](/images/articles/minimalist-checkmark-grid.jpg)
 
 ### Grid Format
 
@@ -221,7 +228,7 @@ The tradeoff? You lose color coding and fancy design elements. But if you're hab
 
 The 90-day challenge format comes from the "90 days to a new you" concept popularized by productivity experts. It works because 90 days is long enough to feel permanent but short enough that completion feels achievable.
 
-<!-- INFOGRAPHIC: 90-day tracker showing 3 months, milestone rewards, progress counter -->
+![90-day habit challenge tracker infographic](/images/articles/90-day-challenge-tracker.jpg)
 
 ### Layout
 
@@ -267,7 +274,7 @@ By tracking all 90 days on a single spread, you can see your progress visually. 
 
 Instead of a simple rows-and-columns grid, this template groups habits by category. It's visually cleaner and helps you see if one area of life is being neglected.
 
-<!-- IMG: Habit tracker organized by colored sections (health, mind, relationships, finances) -->
+![Category-based habit tracker organized by life areas](/images/articles/category-based-habit-tracker.jpg)
 
 ### Template Structure
 
@@ -313,7 +320,7 @@ Meal planning         ✓  ✓  ✓  ○  ✓  ✓  ✓
 
 This template adds a mood column, so you can visually see if certain habits correlate with better emotional states.
 
-<!-- IMG: Habit tracker with mood row showing emoji faces and numerical ratings (1-10) -->
+![Habit tracker with mood row showing emoji faces](/images/articles/habit-mood-combo-tracker.jpg)
 
 ### Format
 
