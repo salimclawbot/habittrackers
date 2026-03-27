@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.habittrackerspot.com"
+        }
+      ],
+      "destination": "https://habittrackerspot.com/:path*",
+      "permanent": true
+    }
+  ]
+}

@@ -14,13 +14,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: { absolute: article.title },
     description: article.description,
-    alternates: { canonical: `https://personalfinancetemplates.com/${article.slug}` },
+    alternates: { canonical: `https://habittrackerspot.com/${article.slug}` },
     openGraph: {
       title: article.title,
       description: article.description,
-      url: `https://personalfinancetemplates.com/${article.slug}`,
+      url: `https://habittrackerspot.com/${article.slug}`,
+      images: [{ url: `https://habittrackerspot.com/og-image.jpg`, width: 1200, height: 630, alt: article.title }],
       type: "article",
-      siteName: "Massage Gun Guide",
+      siteName: "Habit Tracker Spot",
     },
   };
 }
@@ -36,15 +37,15 @@ export default async function ArticlePage({ params }: PageProps) {
       "@type": "Article",
       headline: article.title,
       description: article.description,
-      author: { "@type": "Person", name: article.author || "Dr. Alex Chen" },
+      author: { "@type": "Person", name: article.author || "Habit Tracker Spot" },
       publisher: {
         "@type": "Organization",
-        name: "Massage Gun Guide",
-        logo: { "@type": "ImageObject", url: "https://personalfinancetemplates.com/icon.svg" },
+        name: "Habit Tracker Spot",
+        logo: { "@type": "ImageObject", url: "https://habittracker-site.vercel.app/icon.svg" },
       },
       datePublished: article.date,
       dateModified: article.dateModified,
-      mainEntityOfPage: { "@type": "WebPage", "@id": `https://personalfinancetemplates.com/${article.slug}` },
+      mainEntityOfPage: { "@type": "WebPage", "@id": `https://habittracker-site.vercel.app/${article.slug}` },
     };
 
   return (
@@ -55,7 +56,7 @@ export default async function ArticlePage({ params }: PageProps) {
       )}
       <p className="text-xs font-semibold uppercase tracking-wide text-cyan-700">{article.category}</p>
       <h1 className="mt-2 text-3xl sm:text-4xl font-extrabold text-slate-900">{article.title}</h1>
-      <p className="mt-3 text-slate-600">By Dr. Alex Chen · Updated {article.dateModified}</p>
+      <p className="mt-3 text-slate-600">By Habit Tracker Spot · Updated {article.dateModified}</p>
       <div className="prose prose-slate max-w-none mt-8" dangerouslySetInnerHTML={{ __html: article.htmlContent }} />
     </article>
   );
