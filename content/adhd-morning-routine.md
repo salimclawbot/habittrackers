@@ -314,3 +314,12 @@ For neurotypical brains, habit formation averages 66 days (Lally et al., 2023). 
 3. Huberman, A. (2024). "Morning Sunlight and Circadian Regulation." *Huberman Lab Podcast*.
 4. Lally, P., et al. (2023). "How are habits formed: Modelling habit formation in the real world." *European Journal of Social Psychology*, 40(6), 998–1009.
 5. Hallowell, E. M., & Ratey, J. J. (2024). *ADHD 2.0*. Ballantine Books.
+
+
+## Visual Guide Gallery
+
+![adhd morning routine visual 1](/images/articles/adhd-morning-routine-gallery-1.jpg)
+![adhd morning routine visual 2](/images/articles/adhd-morning-routine-gallery-2.jpg)
+![adhd morning routine visual 3](/images/articles/adhd-morning-routine-gallery-3.jpg)
+![adhd morning routine visual 4](/images/articles/adhd-morning-routine-gallery-4.jpg)
+![adhd morning routine visual 5](/images/articles/adhd-morning-routine-gallery-5.jpg)

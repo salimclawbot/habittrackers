@@ -307,3 +307,12 @@ Medication can significantly improve time perception, working memory, and task i
 3. Hallowell, E. M., & Ratey, J. J. (2024). *ADHD 2.0*. Ballantine Books.
 4. Solanto, M. V. (2023). "Cognitive-behavioral therapy for adult ADHD." *Journal of Clinical Psychology*, 67(4), 462–472.
 5. Tiimo. (2025). "Designing for Neurodivergent Users." https://www.tiimo.dk
+
+
+## Visual Guide Gallery
+
+![adhd daily planner guide visual 1](/images/articles/adhd-daily-planner-guide-gallery-1.jpg)
+![adhd daily planner guide visual 2](/images/articles/adhd-daily-planner-guide-gallery-2.jpg)
+![adhd daily planner guide visual 3](/images/articles/adhd-daily-planner-guide-gallery-3.jpg)
+![adhd daily planner guide visual 4](/images/articles/adhd-daily-planner-guide-gallery-4.jpg)
+![adhd daily planner guide visual 5](/images/articles/adhd-daily-planner-guide-gallery-5.jpg)

@@ -293,3 +293,12 @@ Yes. Medication and behavioural strategies work best together. Medication improv
 3. Ward, A. F., et al. (2023). "Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity." *Journal of the Association for Consumer Research*, 2(2), 140–154.
 4. Mehren, A., et al. (2024). "Acute exercise effects on executive function in adults with ADHD: A meta-analysis." *Neuropsychology Review*, 30(2), 163–179.
 5. Cirillo, F. (2024). *The Pomodoro Technique*. Currency Press.
+
+
+## Visual Guide Gallery
+
+![adhd focus techniques visual 1](/images/articles/adhd-focus-techniques-gallery-1.jpg)
+![adhd focus techniques visual 2](/images/articles/adhd-focus-techniques-gallery-2.jpg)
+![adhd focus techniques visual 3](/images/articles/adhd-focus-techniques-gallery-3.jpg)
+![adhd focus techniques visual 4](/images/articles/adhd-focus-techniques-gallery-4.jpg)
+![adhd focus techniques visual 5](/images/articles/adhd-focus-techniques-gallery-5.jpg)
