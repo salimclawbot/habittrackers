@@ -228,7 +228,7 @@ The tradeoff? You lose color coding and fancy design elements. But if you're hab
 
 The 90-day challenge format comes from the "90 days to a new you" concept popularized by productivity experts. It works because 90 days is long enough to feel permanent but short enough that completion feels achievable.
 
-![90-day habit challenge tracker infographic](/images/articles/90-day-challenge-tracker.jpg)
+![90-day habit challenge tracker infographic](/images/articles/best-habit-tracker-bullet-journal-templates-2026-hero.jpg)
 
 ### Layout
 
@@ -536,7 +536,7 @@ We've tested these products extensively and recommend them:
 Dig deeper into habit tracking and bullet journaling:
 
 - [How to Build a Habit in 21 Days: What the Science Says](/how-to-build-a-habit-21-days)
-- [Digital vs Paper Habit Tracking: Which Works Better?](/digital-vs-paper-habit-tracking)
+- Digital vs Paper Habit Tracking: Which Works Better?
 - [Best Habit Tracker Apps (2026)](/best-habit-tracker-apps-2026)
 - [Habit Stacking: The Simple Guide to Linking Habits](/habit-stacking-guide-linking-habits)
 

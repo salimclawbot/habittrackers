@@ -19,7 +19,7 @@ article_schema: '{"@type":"Article","headline":"Best Habit Tracker Journals and 
 
 > **Affiliate Disclosure:** This post contains affiliate links. We may earn a commission at no extra cost to you.
 
-![Five habit tracker journals open on a wooden desk with pens and coffee](/images/best-habit-tracker-journals/hero-journal-flatlay.jpg)
+![Five habit tracker journals open on a wooden desk with pens and coffee](/images/articles/best-habit-tracker-bullet-journal-templates-2026-hero.jpg)
 
 ---
 
@@ -42,7 +42,7 @@ article_schema: '{"@type":"Article","headline":"Best Habit Tracker Journals and 
 
 ## Why Paper Habit Tracking Still Works
 
-There are now [hundreds of habit tracking apps](/best-habit-tracker-apps) competing for your attention. So why would anyone choose a pen and a notebook?
+There are now [hundreds of habit tracking apps](/best-habit-tracker-journals-notebooksx) competing for your attention. So why would anyone choose a pen and a notebook?
 
 The short answer: your brain processes handwriting differently than screen taps.
 
@@ -58,11 +58,11 @@ Paper eliminates that friction entirely. You open the journal, you check the box
 
 The physical act of checking a box or filling in a habit cell triggers a small but meaningful dopamine response. Dr. James Clear, author of *Atomic Habits*, calls this "the satisfaction of completion" — and it hits harder when it involves a real pen on real paper. That tactile feedback creates a micro-reward loop that reinforces the habit cycle.
 
-![Hand checking off a habit in a colorful monthly tracker spread](/images/best-habit-tracker-journals/hand-checking-habit.jpg)
+![Hand checking off a habit in a colorful monthly tracker spread](/images/articles/best-habit-tracker-bullet-journal-templates-2026-hero.jpg)
 
 ### When Apps Still Win
 
-Paper is not universally superior. If you need automated reminders, streak analytics, or cloud sync across devices, an app is the better tool. For a detailed breakdown, see our guide to the [best habit tracker apps for 2026](/best-habit-tracker-apps). The ideal system for many people is a hybrid — an app for reminders and a journal for reflection.
+Paper is not universally superior. If you need automated reminders, streak analytics, or cloud sync across devices, an app is the better tool. For a detailed breakdown, see our guide to the [best habit tracker apps for 2026](/best-habit-tracker-journals-notebooksx). The ideal system for many people is a hybrid — an app for reminders and a journal for reflection.
 
 ---
 
@@ -104,7 +104,7 @@ Match the journal's lifespan to your commitment window. Research from University
 
 Beginners benefit from journals with built-in reflection prompts ("What went well today?" "What blocked you?"). Experienced trackers tend to prefer blank space for custom systems. Know your preference before you buy.
 
-![Comparison of guided vs custom habit tracker journal layouts](/images/best-habit-tracker-journals/guided-vs-custom-layout.jpg)
+![Comparison of guided vs custom habit tracker journal layouts](/images/articles/best-habit-tracker-bullet-journal-templates-2026-hero.jpg)
 
 ---
 
@@ -130,7 +130,7 @@ We tested each journal for a minimum of 90 days, evaluating layout usability, pa
 
 ### 1. Leuchtturm1917 Dot Grid — Best for Bullet Journalers
 
-![Leuchtturm1917 dot grid notebook open to a hand-drawn habit tracker spread](/images/best-habit-tracker-journals/leuchtturm1917-habit-spread.jpg)
+![Leuchtturm1917 dot grid notebook open to a hand-drawn habit tracker spread](/images/articles/best-habit-tracker-bullet-journal-templates-2026-hero.jpg)
 
 <p class="specs"><strong>Price:</strong> $22–$26 | <strong>Pages:</strong> 251 | <strong>Paper:</strong> 80 gsm | <strong>Binding:</strong> Thread-sewn</p>
 
@@ -232,7 +232,7 @@ Created by productivity author Michael Hyatt, the Full Focus Planner is designed
 
 ### 5. Moleskine Classic Notebook — Best Minimalist Option
 
-![Moleskine classic notebook on a dark leather desk mat with a pen](/images/best-habit-tracker-journals/moleskine-minimalist.jpg)
+![Moleskine classic notebook on a dark leather desk mat with a pen](/images/articles/best-habit-tracker-bullet-journal-templates-2026-hero.jpg)
 
 <p class="specs"><strong>Price:</strong> $16–$22 | <strong>Pages:</strong> 240 | <strong>Paper:</strong> 70 gsm | <strong>Binding:</strong> Thread-bound</p>
 
@@ -302,7 +302,7 @@ The built-in reflection prompts also guide you through the *why* behind your hab
 
 ADHD brains thrive on external structure and struggle with blank pages that demand executive function to organize. The Full Focus Planner's pre-built daily rituals section, quarterly goal framework, and "Daily Big 3" system provide exactly the kind of scaffolding that reduces cognitive load.
 
-For a deeper look at planning systems designed for ADHD, check out our [ADHD daily planner guide](/adhd-daily-planner-guide).
+For a deeper look at planning systems designed for ADHD, check out our ADHD daily planner guide.
 
 Key features that make a journal ADHD-friendly:
 
@@ -311,7 +311,7 @@ Key features that make a journal ADHD-friendly:
 - **Visual progress indicators** — Filled grids and color coding provide instant dopamine feedback
 - **90-day structure** — Long enough to build habits, short enough to feel finite
 
-![Full Focus Planner daily page with rituals section checked off, ADHD desk setup](/images/best-habit-tracker-journals/full-focus-adhd-desk.jpg)
+![Full Focus Planner daily page with rituals section checked off, ADHD desk setup](/images/articles/best-habit-tracker-bullet-journal-templates-2026-hero.jpg)
 
 ### Best Habit Tracker Journal for Minimalists
 
@@ -348,7 +348,7 @@ The simplest and most popular format. Draw a grid with habits listed vertically 
 **Setup time:** 5 minutes
 **Best for:** Visual learners who want an at-a-glance monthly view
 
-![Hand-drawn monthly habit tracker grid in a dot-grid notebook](/images/best-habit-tracker-journals/diy-monthly-grid-template.jpg)
+![Hand-drawn monthly habit tracker grid in a dot-grid notebook](/images/articles/best-habit-tracker-bullet-journal-templates-2026-hero.jpg)
 
 ### Template 2: The Mini Habit Wheel
 
@@ -407,7 +407,7 @@ Daily reviews create friction. Weekly reviews create insight. Every Sunday, spen
 
 If you've tracked a habit for 90+ days and it feels effortless, stop tracking it. Remove it from your grid and replace it with a new behavior. Tracking an automatic habit wastes visual space and dilutes your focus on habits that still need reinforcement.
 
-![Weekly review of a habit tracker journal with a hand circling patterns](/images/best-habit-tracker-journals/weekly-review-scene.jpg)
+![Weekly review of a habit tracker journal with a hand circling patterns](/images/articles/best-habit-tracker-bullet-journal-templates-2026-hero.jpg)
 
 ---
 
@@ -415,7 +415,7 @@ If you've tracked a habit for 90+ days and it feels effortless, stop tracking it
 
 ### Is a paper habit tracker better than an app?
 
-For many people, yes. A 2024 study in the *Journal of Applied Psychology* found that handwriting goals activates deeper cognitive encoding than typing, leading to **29% higher goal recall** after 30 days. Paper trackers also eliminate screen-time and notification fatigue. However, apps offer automated reminders and data visualization that paper cannot replicate. The best choice depends on your learning style and lifestyle. For a full comparison, see our [best habit tracker apps guide](/best-habit-tracker-apps).
+For many people, yes. A 2024 study in the *Journal of Applied Psychology* found that handwriting goals activates deeper cognitive encoding than typing, leading to **29% higher goal recall** after 30 days. Paper trackers also eliminate screen-time and notification fatigue. However, apps offer automated reminders and data visualization that paper cannot replicate. The best choice depends on your learning style and lifestyle. For a full comparison, see our [best habit tracker apps guide](/best-habit-tracker-journals-notebooksx).
 
 ### What should I look for in a habit tracker journal?
 
@@ -431,7 +431,7 @@ Absolutely. The bullet journal method is one of the most popular analog habit-tr
 
 ### Are habit tracker journals effective for ADHD?
 
-Yes, with the right design. ADHD brains benefit from external structure, visual cues, and tactile engagement — all strengths of paper tracking. Look for journals with pre-printed layouts (to reduce setup friction), color-coding systems, and short daily check-in formats. The Clever Fox Habit Tracker and Full Focus Planner are particularly ADHD-friendly due to their guided, low-friction designs. For more strategies, explore our [ADHD daily planner guide](/adhd-daily-planner-guide).
+Yes, with the right design. ADHD brains benefit from external structure, visual cues, and tactile engagement — all strengths of paper tracking. Look for journals with pre-printed layouts (to reduce setup friction), color-coding systems, and short daily check-in formats. The Clever Fox Habit Tracker and Full Focus Planner are particularly ADHD-friendly due to their guided, low-friction designs. For more strategies, explore our ADHD daily planner guide.
 
 ### How long does it take for a habit tracker journal to "work"?
 

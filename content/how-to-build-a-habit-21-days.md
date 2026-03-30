@@ -140,7 +140,7 @@ This is where most people quit. The novelty has worn off, motivation dips, and t
 
 **Day 13–14: Never miss twice.** Lally's research found that missing a single day did not significantly impact habit formation. But missing two consecutive days is where habits start to unravel. Make "never miss twice" your non-negotiable rule. If you miss Monday, Tuesday is sacred.
 
-**What to expect this week:** Lower motivation, higher friction, self-doubt. This is normal. The neural pathways are being built — you just cannot feel it yet. If you are [tracking your daily habits](/best-daily-habit-trackers), this is where seeing your streak becomes a powerful motivator.
+**What to expect this week:** Lower motivation, higher friction, self-doubt. This is normal. The neural pathways are being built — you just cannot feel it yet. If you are tracking your daily habits, this is where seeing your streak becomes a powerful motivator.
 
 ## Week 3: The Consolidation Phase (Days 15–21)
 
@@ -148,7 +148,7 @@ By week three, something shifts. The behavior requires less conscious effort. Yo
 
 **Day 15–17: Begin scaling.** If you have been meditating for two minutes, try five. If you have been reading one page, try five pages. Increase the intensity gradually — research on "shaping" from behavioral psychology shows that incremental increases maintain motivation while building capability.
 
-**Day 18–19: Stack your habit.** Habit stacking — attaching a new behavior to an established one — leverages existing neural pathways. Behavioral scientist BJ Fogg's research at Stanford demonstrates that existing habits are the most reliable cues for new behaviors. "After I [existing habit], I will [new habit]" is the formula. If you are building a morning habit, our [morning routine guide](/morning-routine-for-success) provides a complete framework for stacking habits into an effective start to your day.
+**Day 18–19: Stack your habit.** Habit stacking — attaching a new behavior to an established one — leverages existing neural pathways. Behavioral scientist BJ Fogg's research at Stanford demonstrates that existing habits are the most reliable cues for new behaviors. "After I [existing habit], I will [new habit]" is the formula. If you are building a morning habit, our [morning routine guide](/morning-routine-habit-tracker) provides a complete framework for stacking habits into an effective start to your day.
 
 **Day 20–21: Reflect and recommit.** Journal about what has changed. Research on self-monitoring shows that reflection strengthens the intention-behavior link. Note what is working, what is not, and what you will adjust for the next 45 days of consolidation.
 
@@ -176,7 +176,7 @@ For habits where the natural reward is delayed (exercise, healthy eating, saving
 
 ### 5. Strategic Friction Management
 
-Make good habits easy and bad habits hard. Dr. Wendy Wood's research found that even minor friction changes — like moving snacks from the counter to a high shelf — significantly altered behavior. Apply this principle in both directions: reduce every possible barrier to your desired habit and increase barriers to competing behaviors. For more on structuring your environment for success, check out [how to organize your habit tracking system](/habit-tracking-system-guide).
+Make good habits easy and bad habits hard. Dr. Wendy Wood's research found that even minor friction changes — like moving snacks from the counter to a high shelf — significantly altered behavior. Apply this principle in both directions: reduce every possible barrier to your desired habit and increase barriers to competing behaviors. For more on structuring your environment for success, check out how to organize your habit tracking system.
 
 ## Best Habit Tracking Tools for 2026
 

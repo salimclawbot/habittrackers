@@ -426,7 +426,7 @@ The most effective method is the **Habit Replacement Framework**, which involves
 
 ### Why do bad habits keep coming back?
 
-Bad habits resurface because the neural pathways that encode them never fully disappear. Stress, fatigue, and environmental cues can reactivate dormant habit loops. This is why environment design and having a [relapse protocol](/why-your-habits-keep-failing) are essential parts of any permanent habit-breaking strategy.
+Bad habits resurface because the neural pathways that encode them never fully disappear. Stress, fatigue, and environmental cues can reactivate dormant habit loops. This is why environment design and having a relapse protocol are essential parts of any permanent habit-breaking strategy.
 
 ### Does willpower work for breaking habits?
 

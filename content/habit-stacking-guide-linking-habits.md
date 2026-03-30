@@ -481,7 +481,7 @@ Habit stacking is particularly powerful for people with ADHD, but it requires so
 
 The adaptation is straightforward: pair your habit stacks with external visual cues. Write your stack on a whiteboard mounted at eye level. Set a single alarm for your anchor habit (not for every habit in the stack — that creates alarm fatigue). Use physical objects as transition cues: moving a specific item from one spot to another signals the start of the next behavior.
 
-Our colleagues at ADHD Productivity Tips cover additional strategies in their guide on [habit tracking strategies for ADHD](https://www.adhdproductivitytips.com/best-apps-adhd-productivity), including app-based approaches designed specifically for neurodivergent brains. Within our own site, the [ADHD morning routine guide](/adhd-morning-routine) provides a complete framework for building morning stacks that work with ADHD rather than against it.
+Our colleagues at ADHD Productivity Tips cover additional strategies in their guide on [habit tracking strategies for ADHD](https://www.adhdproductivitytips.com/best-apps-adhd-productivity), including app-based approaches designed specifically for neurodivergent brains. Within our own site, the ADHD morning routine guide provides a complete framework for building morning stacks that work with ADHD rather than against it.
 
 ---
 
